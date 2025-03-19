@@ -1,0 +1,2 @@
+# Movie-Showtimes-Finder
+基於Selenium和Tkinter的台灣威秀影城電影場次查詢工具
